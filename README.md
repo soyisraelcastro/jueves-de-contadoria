@@ -27,6 +27,7 @@ las cinco capas con las que reviso un lote: validación formal contra el Anexo
 | 12 | [Discrepancia fiscal: complementos de pago vs facturas vs estado de cuenta](live-12-discrepancia-fiscal/) | La skill `conciliacion-pagos` (con su .zip para subirla a Claude) y los tres CSV de la clase: facturas, complementos y estado de cuenta. |
 | 13 | [Errores de CFDI: lo emitido vs lo registrado, y la fecha de operación](live-13-errores-cfdi/) | El prompt de revisión de lote, la misma revisión como skill `revision-de-lote` (con su .zip) y los tres CSV de la clase: CFDI emitidos, recibidos y pólizas. |
 | 14 | [IVA acreditable: revisar antes de que te revisen](live-14-iva-acreditable/) | El prompt del papel de trabajo del IVA acreditable, los cinco CSV de la clase y la guía de Miguel García (MG Fiscal) para documentar una devolución de IVA. |
+| 15 | [Que el cálculo no dependa de la suerte](live-15-calculo-repetible/) | Clase práctica: el ISR de sueldos con un script que da lo mismo cada vez. El prompt, el script, la tarifa 2026 del art. 96, la nómina de la clase y la skill `isr-sueldos` (con su .zip). |
 
 Los episodios anteriores se van subiendo conforme los desempolvo. Si te urge
 uno, pídemelo en los comentarios del video y lo priorizo.
