@@ -27,12 +27,17 @@ huella es la misma.
 ## Fundamento (el candado)
 
 1. Antes de escribir el script, consulta leyes-mx y lee completos los artículos
-   que vayas a usar. No trabajes de memoria ni busques en internet.
+   que vayas a usar: LISR 9, 14 y 54, y LIVA 1, 4, 5, 5-D y 6. Si la herramienta
+   obtener_articulo solo te devuelve datos (vigencia, reforma) y no el texto del
+   artículo, obtén el texto con la terminal: `npx leyes-mx obtener LISR 14`. No
+   trabajes de memoria ni busques en internet.
 2. Cada renglón lleva su fundamento: ley, artículo, fracción o párrafo, año de
    vigencia y fecha de última reforma, tal como los devuelve la herramienta.
 3. Si algo no está en la base, escribe "no verificado" y pregúntame si quiero
    que lo busque fuera. No lo busques por tu cuenta.
-4. No uses ningún dato que no esté en `datos/`. Si te falta uno, pídemelo.
+4. Los datos del contribuyente salen solo de `datos/`. Si te falta uno, pídemelo.
+   Las tasas y las reglas de cálculo (por ejemplo la tasa del ISR) salen del texto
+   del artículo que leíste, y las citas.
 5. Una reforma en proyecto no es ley vigente: no la apliques.
 
 ## Cómo entregas
