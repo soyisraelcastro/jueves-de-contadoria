@@ -28,6 +28,7 @@ las cinco capas con las que reviso un lote: validación formal contra el Anexo
 | 13 | [Errores de CFDI: lo emitido vs lo registrado, y la fecha de operación](live-13-errores-cfdi/) | El prompt de revisión de lote, la misma revisión como skill `revision-de-lote` (con su .zip) y los tres CSV de la clase: CFDI emitidos, recibidos y pólizas. |
 | 14 | [IVA acreditable: revisar antes de que te revisen](live-14-iva-acreditable/) | El prompt del papel de trabajo del IVA acreditable, los cinco CSV de la clase y la guía de Miguel García (MG Fiscal) para documentar una devolución de IVA. |
 | 15 | [Que el cálculo no dependa de la suerte](live-15-calculo-repetible/) | Clase práctica: el ISR de sueldos con un script que da lo mismo cada vez. El prompt, el script, la tarifa 2026 del art. 96, la nómina de la clase y la skill `isr-sueldos` (con su .zip). |
+| 16 | [Declaración mensual con Claude: el cálculo y el artículo que lo sustenta](live-16-declaracion-mensual/) | Clase práctica con leyes-mx: el pago provisional de ISR y el IVA de octubre con un script que se repite y se audita, cada cifra con su artículo. La carpeta del proyecto (`CLAUDE.md` y datos), mi script de referencia y el prompt. |
 
 Los episodios anteriores se van subiendo conforme los desempolvo. Si te urge
 uno, pídemelo en los comentarios del video y lo priorizo.
