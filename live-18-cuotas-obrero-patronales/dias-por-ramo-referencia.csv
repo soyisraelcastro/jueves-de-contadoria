@@ -1,0 +1,6 @@
+grupo,periodo,resta_ausencias,resta_incapacidades,fundamento
+mes_eym,mes,no,si,"LSS art. 31 fr. I (ausencias menores de 8 días: se cotiza y paga solo enfermedades y maternidad) y fr. IV (incapacidad del IMSS: no se cubren cuotas, salvo retiro)"
+mes,mes,si,si,"LSS art. 31 fr. I y IV"
+bim_retiro,bimestre,si,no,"LSS art. 31 fr. IV: en la incapacidad sí se paga el ramo de retiro. Bimestral: LSS transitorio Vigésimo Séptimo (decreto de 1995)"
+bim,bimestre,si,si,"LSS art. 31 fr. I y IV. Bimestral: LSS transitorio Vigésimo Séptimo (decreto de 1995)"
+bim_infonavit,bimestre,si,no,"LINFONAVIT art. 29, párrafo después de la fr. IX (se suspende por ausencias en los términos de la LSS; en la incapacidad del IMSS subsiste) y RIPAED art. 35 fr. I y III"
